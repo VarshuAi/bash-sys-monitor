@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A lightweight Linux health monitor reporting system diagnostics and active TCP connections.
+  name: bash-sys-monitor version: 1.0 type: Repository author: VarshuAi description: >   A lightweight Linux health monitor reporting system diagnostics and active TCP connections. primary_tech: Shell
 primary_tech: Shell
 ```
 
